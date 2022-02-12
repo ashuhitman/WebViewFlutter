@@ -1,6 +1,6 @@
 # web_view_app
 
-A new Flutter project.
+A  Flutter project.
 
 ## Used flutter webview package to load website in browser
 - [webview_flutter](https://pub.dev/packages/webview_flutter)
@@ -8,3 +8,6 @@ A new Flutter project.
 ### Added Functionality
 #### Loading gindicator
 #### Back funcionality 
+
+## Preview
+![webpae loader](https://user-images.githubusercontent.com/16610928/153716125-0fb81fad-a496-4b60-97e0-8fdaa477d6f6.gif)
