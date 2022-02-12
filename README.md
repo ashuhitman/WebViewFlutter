@@ -2,7 +2,7 @@
 
 A  Flutter project.
 
-## Used flutter webview package to load website in browser
+## Used flutter webview package to load website
 - [webview_flutter](https://pub.dev/packages/webview_flutter)
 
 ### Added Functionality
