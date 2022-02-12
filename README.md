@@ -6,8 +6,8 @@ A  Flutter project.
 - [webview_flutter](https://pub.dev/packages/webview_flutter)
 
 ### Added Functionality
-#### Loading gindicator
-#### Back funcionality 
+#### Loading indicator
+#### Back functionality 
 
 ## Preview
 ![webpae loader](https://user-images.githubusercontent.com/16610928/153716125-0fb81fad-a496-4b60-97e0-8fdaa477d6f6.gif)
