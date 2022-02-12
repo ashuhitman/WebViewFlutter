@@ -7,4 +7,4 @@ A new Flutter project.
 
 ### Added Functionality
 #### Loading gindicator
-#### Back funcionality on back button click
+#### Back funcionality 
